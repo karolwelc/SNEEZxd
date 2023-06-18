@@ -1,5 +1,8 @@
 <h1 align="center">KAROL WELC</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate python and golang developer 
+👯 I’m looking to collaborate on any golang Project. I am really into it and I am seeing myself in future projects where this technology will be used.
+🌱 I’m currently learning applied IT.
+💬 Ask me about anything related to Python</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
